@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm ZeroX
 
-Welcome to my GitHub! I'm an **Intermediate Blockchain Developer** passionate about decentralized technologies and cryptography. My focus areas include **re-staking protocols**, **Zero Knowledge Proofs (ZKPs)**, **Solidity Smart Contract development**, and **Golang** for backend systems in the blockchain ecosystem. I enjoy contributing to open-source projects, building decentralized applications (dApps), and working on scaling and privacy-preserving technologies.
+Welcome to my GitHub! I'm am ** Senior Blockchain Developer** passionate about decentralized technologies and cryptography. My focus areas include **re-staking protocols**, **Zero Knowledge Proofs (ZKPs)**, **Solidity Smart Contract development**, and **Golang** for backend systems in the blockchain ecosystem. I enjoy contributing to open-source projects, building decentralized applications (dApps), and working on scaling and privacy-preserving technologies.
 
 ## 🔧 Technical Skills
 
